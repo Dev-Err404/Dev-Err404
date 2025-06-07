@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/deviprasad/deviprasad/master/name.svg" alt="Devi Prasad" />
-</h1>
+
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
